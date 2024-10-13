@@ -16,7 +16,7 @@ I am a PhD student 🔭 who works in the Environment and Health group of INENCO 
 
     - Basic modeling water, sanitation and hygiene impacts over the transmission of soil-transmitted helminths: 
 
-    - Modeling macroparasite infection dynamics: https://arxiv.org/abs/2205.09034
+    - Modeling macroparasite infection dynamics: https://revistammsb.utem.cl/wp-content/uploads/sites/27/2022/12/MMSB-22-R-011.pdf
 
     - Modeling of egg production and mating probability for macroparasites: https://arxiv.org/abs/2202.11552
     
