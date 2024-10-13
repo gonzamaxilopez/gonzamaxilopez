@@ -18,9 +18,9 @@ I am a PhD student 🔭 who works in the Environment and Health group of INENCO 
 
     - Modeling macroparasite infection dynamics: https://revistammsb.utem.cl/wp-content/uploads/sites/27/2022/12/MMSB-22-R-011.pdf
 
-    - Modeling of egg production and mating probability for macroparasites: https://arxiv.org/abs/2202.11552
+    - Mathematical modeling of mating probability and fertile egg production in helminth parasites: https://doi.org/10.1007/s11538-024-01356-3
     
-    - Simple models for macroparasite distributions in hosts: https://arxiv.org/abs/2202.11282
+    - Simple models for macroparasite distributions in hosts: https://doi.org/10.28951/bjb.v41i2.616
 <!-- 
  
     - Forest fires in amazonas:  https://arxiv.org/abs/2202.11552
