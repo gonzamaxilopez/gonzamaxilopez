@@ -21,6 +21,12 @@ I am a PhD student 🔭 who works in the Environment and Health group of INENCO 
     - Mathematical modeling of mating probability and fertile egg production in helminth parasites: https://doi.org/10.1007/s11538-024-01356-3
     
     - Simple models for macroparasite distributions in hosts: https://doi.org/10.28951/bjb.v41i2.616
+ 
+- Here, you can also find some mathematics theses that I have supervised
+
+    - Ejemplos de representaciones para una familia de álgebras de Hopf: 
+      
+    - Introducción a la Teoría de Códigos:
 <!-- 
  
     - Forest fires in amazonas:  https://arxiv.org/abs/2202.11552
