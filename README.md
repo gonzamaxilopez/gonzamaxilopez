@@ -24,9 +24,9 @@ I am a PhD student 🔭 who works in the Environment and Health group of INENCO 
  
 - Here, you can also find some mathematics theses that I have supervised
 
-    - Ejemplos de representaciones para una familia de álgebras de Hopf: 
+    - Ejemplos de representaciones para una familia de álgebras de Hopf: https://github.com/gonzamaxilopez/gonzamaxilopez/blob/a4969f81ad47f7a2ebc21ce1ca1287a2158576c0/Tesis_Rodriguez.pdf
       
-    - Introducción a la Teoría de Códigos:
+    - Introducción a la Teoría de Códigos: https://github.com/gonzamaxilopez/gonzamaxilopez/blob/a4969f81ad47f7a2ebc21ce1ca1287a2158576c0/Tesis_Lopez.pdf
 <!-- 
  
     - Forest fires in amazonas:  https://arxiv.org/abs/2202.11552
