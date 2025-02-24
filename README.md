@@ -27,6 +27,9 @@ I am a PhD student 🔭 who works in the Environment and Health group of INENCO 
     - Ejemplos de representaciones para una familia de álgebras de Hopf: https://github.com/gonzamaxilopez/Theses/blob/86a25b00bf1ec9163f27caf86adcb053e9ae2581/Tesis_Rodriguez.pdf
       
     - Introducción a la Teoría de Códigos: https://github.com/gonzamaxilopez/Theses/blob/86a25b00bf1ec9163f27caf86adcb053e9ae2581/Tesis_Lopez.pdf
+    
+    - Análisis dinámico de la transmisión de infecciones por micro y macroparásitos:
+https://github.com/gonzamaxilopez/gonzamaxilopez/blob/main/Tesis_Yanez.pdf
 <!-- 
  
     - Forest fires in amazonas:  https://arxiv.org/abs/2202.11552
